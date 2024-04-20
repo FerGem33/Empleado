@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EmpleadoManual
+comment1.params=num\ nombre\ antiguedad\ pagoPorHora\ horasTrabajadas
+comment1.target=EmpleadoManual(int,\ java.lang.String,\ int,\ double,\ double)
+comment2.params=
+comment2.target=void\ calcularSueldo()
+numComments=3
